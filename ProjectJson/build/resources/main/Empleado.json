@@ -1,0 +1,11 @@
+{"empleado":[{"firstName":  "Pedro", "lastName": "MEsa", "age": 15,
+  "address": {"streetAddress":  "Cll 26 # 70-40", "city": "Medellin", "postalCode":  "5854"}},
+
+  {"firstName":  "John", "lastName": "Smith", "age": 30,
+    "address": {"streetAddress":  "Cll 25 # 30-40", "city": "Amalfi", "postalCode":  "15501"}},
+
+{"firstName":  "Lucas", "lastName": "Ruiz", "age": 23,
+  "address": {"streetAddress":  "Cll 70 # 30-63", "city": "NY", "postalCode":  "78457"}}
+
+]
+}
